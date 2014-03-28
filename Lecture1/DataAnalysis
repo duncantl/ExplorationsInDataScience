@@ -1,0 +1,33 @@
+
+Identify Data
+Access Data
+Understand format of Data
+Clean data
+Explore data  (iterate cleaning)
+  Spend a lot of time becoming familiar with individual observations
+  relationships between variables, how those relationships are different/similar when conditioned on other variables
+  this is reconaissance  and an essential part of serious and deep data analysis.
+  This involves enormous amounts of visualization.
+
+Identify interesting aspects of data
+Map the question to mathematical and statistical terms
+  identify the randomness and how it arises
+  What are the assumptions and scope of inference.
+    What are the limitations of inference.
+Consider how to model the data
+  Identify different methods
+  Consider the assumptions needed and how believable they are for the data.
+    Determine how violating the assumptions  will change the qualitative results.
+ 
+How can we perform the computations?
+
+
+Visualize the results and interpret to answer the scientific/social question.
+
+
+----------
+
+Statisticians often focus on the methods and do not necessarily appreciate the question being asked.
+Scientists often focus on the problem and do not necessarily appreciate some of the subtleties of the methods. 
+
+We hope to focus on both.

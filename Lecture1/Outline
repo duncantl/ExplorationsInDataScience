@@ -8,8 +8,12 @@
 ** solve computational challenges in authentic data analysis
 ** explore new data technologies
 
+* Dialog and discussion rather than monologue/lecture
+** We don't want these weekly meetings to be lectures
+** We want to discuss general issues or problems that have arisen over the week.
+** Most of the activity will be on Piazza
 
-* Structure of the course
+* Structure of the "course"
 ** The primary vehicle for the course are several data analyses.
 *** We will discuss approaches to 
 **** mapping the general questions to statistical frameworks
@@ -22,6 +26,12 @@
 
 ** Participants will work on one (or more) actual data analysis.
 
+** Compare methods and understand their differences
+*** With so many people, different groups can explore different approaches and share
+    ther results and insights.  So not every group has to do everything.
+*** You will definitely learn more by doing things yourself as well.
+
+
 ** We will propose two general analyses
 *** Please feel free to propose and present others and attract people to work on that.
 
@@ -33,3 +43,10 @@
 
 
 ** Other data sets proposed by participants
+
+* Grading
+** For those taking this for units, we expect
+***  Active participation on Piazza, in these weekly meetings
+***  A short
+***  Activity in the analysis and programming via a git repository.
+****   i.e. commits.
