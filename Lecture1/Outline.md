@@ -15,7 +15,7 @@ Course goals:
 What this course is **not**:
 
 + lecture course on statistical/machine learning methods/algorithms
-+ a passive talk-and-chalk course, you will actually be working with data
++ a passive talk-and-chalk course. You will actually be working with data
 + an introduction to computing
 + an introduction to statistics
 + in both cases, we will provide summaries, tutorials, additional references as needed. Important to leverage different skills of your group members.
@@ -104,23 +104,25 @@ We will use the last part of the meeting to begin forming groups of 4 for the co
 + Participants who are not enrolled for credit, but who intend to complete a data science project should join a group just as if they were registered for the course officially,
 + If you are auditing in a read-only capacity and intend merely to observe and not directly work on a project then please do not join a group (note that we discourage this option, as you will not learn as much without **doing** the project).     
 
-**When you have formed a group, please email <a href="mailto:pdbaines@ucdavis.edu">Paul</a> and <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a> with your group list, making sure to cc all of your group members on the email.**
+**When you have formed a group, please have one member email <a href="mailto:pdbaines@ucdavis.edu">Paul</a> AND <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a> with your group list, making sure to cc all of your group members on the email.**
 
-If you did not form a group during class, then please feel free to post on Piazza using the *Group Search Tool*. This allows easier formation of groups. ***If you have not managed to form a group by Friday April 4th, then please email <a href="mailto:pdbaines@ucdavis.edu">Paul</a> and <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a>***. 
+If you did not form a group during class, then please feel free to post on Piazza using the *Group Search Tool*. This allows easier formation of groups. ***If you have not managed to form a group by Friday April 4th, then please email <a href="mailto:pdbaines@ucdavis.edu">Paul</a> AND <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a>***. 
 
 ## What next?
 
 1. See the <a href="http://eeyore.ucdavis.edu/ExplorationsInDataScience/Spring14/Handouts/Week_01_Todo.pdf">handout</a> for guidelines on what to do before the next meeting,
-2. Form your groups and <a href="mailto:pdbaines@ucdavis.edu">Paul</a> and <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a> when you have done so.
+2. Form your groups and <a href="mailto:pdbaines@ucdavis.edu">Paul</a> AND <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a> when you have done so.
 3. If you are interested in providing data or organizing a project then post to Piazza as explained above,
-4. If you are unable to form a group by Friday then please email <a href="mailto:pdbaines@ucdavis.edu">Paul</a> and <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a> too. 
+4. If you are unable to form a group by Friday then please email <a href="mailto:pdbaines@ucdavis.edu">Paul</a> AND <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a> too. 
 
 Some general advice for a productive quarter:
 
-+ Be independent. If you do not know how to do something, search the web, experiment and try to figure it out,
-+ Communicate with your fellow group members and try to leverage each others skills. They may know how to do something that you do not,
-+ Post on Piazza as you and your group encounter problems you are unable to solve,
++ Be independent. If you do not know how to do something, search the web, experiment, and try to figure it out and ask.
++ Communicate with your fellow group members and try to leverage each others skills. They may know how to do something that you do not.
++ Post on Piazza as you and your group encounter problems you are unable to solve, or find things of interest you want to share.
 + Be creative. Try different approaches, and think beyond the most obvious next step.
++ Understand the statistical methods and compare how they (mis)perform, both in the aggregate and also on individual observations.
++ Use github.com or bitbucket.com to share code, writeups, notes, plots, etc. with your group and others.
 + Remember the prizes... and the glory... if you do an outstanding job! 
 
 Here is to a fun and interesting quarter! 
