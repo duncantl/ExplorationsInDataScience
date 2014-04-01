@@ -82,15 +82,42 @@ Image processing and classification is a hugely important task with a wide varie
 
 The cats and dogs problem is a more sanitized problem than the Strava race prediction problem, so the emphasis will be more on the computation, feature extraction and understanding different predictive methodologies (and less on processing, cleaning, understanding and dealing with varied data structures). This is ideal for folks primarily interested in optimizing their predictive analytics skills (a la Kaggle competitions) rather than the Strava-style data challenges. Depending on your interests, please choose a data analysis project that interests you!  
 
+## Additional Data Projects 
+
+Many of our participants are already working on exciting data science projects in their own research/work. To that end, we encourage any interested participants to post a brief *Project Description* to Piazza. The description should outline the basic structure of the data, and the questions on interest that you will be attempting to answer during the quarter. Interested students should then contact the project host to form a group working on the problem. These projects will run
+parallel to the Strava and Cats + Dogs projects, with participants giving occasional status updates during the weekly meeting. We will also brainstorm approaches to problems as needed. 
+
+If you have a specific dataset or project that you would like to work on during the course, but are not willing and/or able to do so in a group, then please email <a href="mailto:pdbaines@ucdavis.edu">Paul</a> and <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a>. Decisions will be made on a case-by-case basis. 
+
 ## Forming Groups
 
-How to do this...?
+We will use the last part of the meeting to begin forming groups of 4 for the course projects.
++ All participants enrolled for credit should join a group,
++ We strongly encourage interdisciplinary groups to pool diverse skill sets (i.e., we would like to avoid groups that contain only statisticians or only computer scientists),
++ Participants who are not enrolled for credit, but who intend to complete a data science project should join a group just as if they were registered for the course officially,
++ If you are auditing in a read-only capacity and intend merely to observe and not directly work on a project then please do not join a group (note that we discourage this option, as you will not learn as much without **doing** the project).     
+
+**When you have formed a group, please email <a href="mailto:pdbaines@ucdavis.edu">Paul</a> and <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a> with your group list, making sure to cc all of your group members on the email.**
+
+If you did not form a group during class, then please feel free to post on Piazza using the *Group Search Tool*. This allows easier formation of groups. ***If you have not managed to form a group by Friday April 4th, then please email <a href="mailto:pdbaines@ucdavis.edu">Paul</a> and <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a>***. 
 
 ## What next?
 
-See the handout for what to do before next week. 
+1. See the <a href="http://eeyore.ucdavis.edu/ExplorationsInDataScience/Spring14/Handouts/Week_01_Todo.pdf">handout</a> for guidelines on what to do before the next meeting,
+2. Form your groups and <a href="mailto:pdbaines@ucdavis.edu">Paul</a> and <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a> when you have done so.
+3. If you are interested in providing data or organizing a project then post to Piazza as explained above,
+4. If you are unable to form a group by Friday then please email <a href="mailto:pdbaines@ucdavis.edu">Paul</a> and <a href="mailto:dtemplelang@ucdavis.edu">Duncan</a> too. 
 
-**Other data sets proposed by participants**
+Some general advice for a productive quarter:
+
++ Be independent. If you do not know how to do something, search the web, experiment and try to figure it out,
++ Communicate with your fellow group members and try to leverage each others skills. They may know how to do something that you do not,
++ Post on Piazza as you and your group encounter problems you are unable to solve,
++ Be creative. Try different approaches, and think beyond the most obvious next step.
++ Remember the prizes... and the glory... if you do an outstanding job! 
+
+Here is to a fun and interesting quarter! 
+
 
 
 
