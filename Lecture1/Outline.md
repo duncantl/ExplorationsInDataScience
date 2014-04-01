@@ -1,7 +1,9 @@
+# Explorations in Data Science
 
 ## About this course:
 
 Course goals:
+
 + practice data analysis 
 + not teach methods, but determine how to approach problems, identify relevant methods
 + focus on ***authentic*** data problems
@@ -11,6 +13,7 @@ Course goals:
 + explore new data technologies
 
 What this course is **not**:
+
 + lecture course on statistical/machine learning methods/algorithms
 + a passive talk-and-chalk course, you will actually be working with data
 + an introduction to computing
@@ -19,7 +22,8 @@ What this course is **not**:
 
 ## Structure of the course
 
-The primary vehicle for the course are several data analyses. We will discuss approaches to: 
+The primary vehicle for the course are several data analyses. We will discuss approaches to:
+
 + mapping the general questions to statistical frameworks
 + exploring data via visualization and summary statistics
 + identifying and evaluating competing statistical methods relevant to solving the problem
@@ -50,6 +54,7 @@ Possible definitions from around the web:
 + "A buzzword. Data Science is just a broader definition of Statistics."
 
 Takeaways:
+
 + A Data Scientist needs to know how to code (well),
 + A Data Scientist needs to know some statistics,
 + A Data Scientist needs to acquire domain knowledge.
@@ -64,6 +69,7 @@ Takeaways:
 Strava is a website that allows users to visualize and analyze data about their running and cycling activities, while also providing a strong social component and incentive structure (e.g., segments, clubs). 
 
 Example data:
+
 + A run: <http://www.strava.com/activities/69139443>
 + A ride: <http://www.strava.com/activities/124966010>
 
@@ -92,6 +98,7 @@ If you have a specific dataset or project that you would like to work on during 
 ## Forming Groups
 
 We will use the last part of the meeting to begin forming groups of 4 for the course projects.
+
 + All participants enrolled for credit should join a group,
 + We strongly encourage interdisciplinary groups to pool diverse skill sets (i.e., we would like to avoid groups that contain only statisticians or only computer scientists),
 + Participants who are not enrolled for credit, but who intend to complete a data science project should join a group just as if they were registered for the course officially,
