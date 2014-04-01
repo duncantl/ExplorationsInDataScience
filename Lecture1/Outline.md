@@ -122,7 +122,7 @@ Some general advice for a productive quarter:
 + Post on Piazza as you and your group encounter problems you are unable to solve, or find things of interest you want to share.
 + Be creative. Try different approaches, and think beyond the most obvious next step.
 + Understand the statistical methods and compare how they (mis)perform, both in the aggregate and also on individual observations.
-+ Use github.com or bitbucket.com to share code, writeups, notes, plots, etc. with your group and others.
++ Use github.com or bitbucket.com to share code, writeups, notes, plots, etc. (but **not data** :) with your group and others.
 + Remember the prizes... and the glory... if you do an outstanding job! 
 
 Here is to a fun and interesting quarter! 
