@@ -45,9 +45,25 @@ partitions (think cut() in R) that can be useful simplifications for
 further exploration.
 
 
+EDA basically helps us become very familiar with the individual
+observations and allows us to get a lot of our answers informally.
+Often this is the heart of the data analysis. Modeling, etc.  then
+become the formal validation of this discovery.  It is important to
+"become one with the data" to have a full understanding of it.  Deep
+familiarity and knowledge of the data helps us to recognize when the
+methods yield odd results and to compare the results of different
+methods and to understand why they predict different challenging
+points in different ways.
+
+Importantly, EDA and modeling form a  highly iterative process
+where we do EDA, fit models, explore the results, go back and do more EDA and 
+then this leads to more refined models, and so on.
+
 
 
 Are there methods that can limit the effect of outliers?  Yes. This is
 an area of statistics called "robust statistics".  There are many
 methods. We can also use absolute value rather than euclidean
 distance, i.e. squaring values.
+
+
