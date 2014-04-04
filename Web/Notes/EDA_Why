@@ -1,0 +1,53 @@
+Why do we do data exploration - Exploratory Data Anaylysis or EDA?
+As opposed to what - jumping straight to modeling/predicting?
+
+Firstly, how do we know what sort of models (linear versus non-linear)
+are appropriate if we don't look at the relationships between the
+variables.  And we look at all of the relationships, not just between
+the response we might want to model (Y) and the predictor variables
+(Xs).  We want to see which X's are related and how.  This can help us
+identify potential problems (collinearity) but also help us to get a
+sense of dimension reduction.
+
+We want to see if the relationships between variables are "global"
+or different when we condition on other variables.
+By this, we mean is the relationship for, say, run time and distance
+the same for men and woman. If it is, we can combine our data across
+genders; if not, we have deal with them separtely.
+
+(One could try to determine this algorithmically, e.g. by testing for a
+gender effect, but that mixes in a lot of other aspects that we have to 
+look at first.)
+
+Do we see any features/characteristics that suggest ways to model the data.
+We want to see the univariate, bivariate, ... distributions and see if they
+are heavily skewed or not. This helps us to think about parametric or non-parametric
+
+Finding outliers is definitely one aspect of EDA.  What makes an
+outlier - something unusual. To find these, we need to come to an
+understanding of what is usual and then what is unusual.  We may find
+an unusual activity and then explain it and leave it unaltered.  This
+takes a lot of examination and interaction with the data.  This
+process is often quite context/application specific, with some general
+mechanisms about how to go about looking.  There might also be
+inliers, as well as outliers.
+
+We also want to try to correct any errors, even if they are not outliers.
+
+In the Strava data, we also want to get rid of any repeats, e.g. when
+somebody uploaded the same activity multiple times or to multiple
+different accounts.  These may not be outliers, but they are not real
+data. So we don't want to pretend we have more data than we actually
+do.
+
+When looking at distributions, we may identify convenient groups or
+partitions (think cut() in R) that can be useful simplifications for
+further exploration.
+
+
+
+
+Are there methods that can limit the effect of outliers?  Yes. This is
+an area of statistics called "robust statistics".  There are many
+methods. We can also use absolute value rather than euclidean
+distance, i.e. squaring values.
